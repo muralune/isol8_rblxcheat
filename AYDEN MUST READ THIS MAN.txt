@@ -1,0 +1,20 @@
+make sure you still have visual studio installed
+
+YOU NEED TO DOWNLOAD 2 THINGS:
+
+i made it easy for u ayden in the isol8_rblx folder i made
+a "requirements" folder with installers in there all you have to do
+is run and install "dotnet-runtime-7.0.0-win-x64", and "VC_redist.x64"
+
+_________________________________________________________________________
+.NET runtime = making the app able to open
+
+redist = in minecraft terms downloading the 
+         missing textures for a server but in
+         this case code
+
+
+
+my bad ayden, this is prob really complicated but only cuz roblox 
+stupid byfron, but ig it works pretty good planning on addind new 
+features dm me if u want first dibs.
